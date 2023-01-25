@@ -7,7 +7,7 @@ project polygons for given projects and outputs a copy of the co-benefits calcul
 
 ## How to set up for use
 
-This tool is an ArcGIS toolbox (.atbx) file containing a script tool. In order to use it, save this folder in a location that you will be able to find and create a folder connection to that location in the catalog pane. You will then be able to open the script tool from the catalog pane.
+This tool is an ArcGIS toolbox (.atbx) file containing a script tool. In order to use it, save this folder in a location that you will be able to find and create a folder connection to that location in the catalog pane of ArcPro. You will then be able to open the script tool from the catalog pane.
 
 ## Inputs and requirements for inputs
 
